@@ -9,4 +9,4 @@ The data used was created in the following article : https://www.cell.com/cell-r
 The data can be downloaded from : https://stonybrookmedicine.app.box.com/v/cellreportspaper 
  - Download "til_maps.zip"
  - Compress "TIL_maps_after_thres_v1" folder into a zip file
- - Upload zip to google drive 
+ - Upload zip to google drive (the attached code will be mounted to your google drive from which it'll use the images)
