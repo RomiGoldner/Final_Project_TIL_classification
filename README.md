@@ -6,4 +6,7 @@ A VGG based CNN model was use to classify 13 cancer types.
 
 The data used was created in the following article : https://www.cell.com/cell-reports/pdf/S2211-1247(18)30447-9.pdf 
 
-The data can be downloaded from : https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=33948919
+The data can be downloaded from : https://stonybrookmedicine.app.box.com/v/cellreportspaper 
+ - Download "til_maps.zip"
+ - Compress "TIL_maps_after_thres_v1" folder
+ - Upload zip to google drive 
